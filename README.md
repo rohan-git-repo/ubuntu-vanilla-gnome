@@ -11,6 +11,8 @@ Changelog:
 
 	Removed all snaps and installed Firefox debian from Mozilla Repository
 	
+	Removed Ubuntu System reporting tool Apport
+	
 	Removed Ubuntu Desktop and installed Vanilla Gnome
 	
 	Removed LXQT Desktop
